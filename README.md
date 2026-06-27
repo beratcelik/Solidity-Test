@@ -2,6 +2,10 @@
 
 This is a Solidity coding problem for tech interviews. It is designed to take **no more than a few hours**.
 
+
+Loom Video Link: https://www.loom.com/share/044aca0caf1341eaa25069ffa37aa0b8
+
+
 ## Getting setup
 
 Ensure you have installed:
